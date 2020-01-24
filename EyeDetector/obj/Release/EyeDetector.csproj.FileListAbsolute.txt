@@ -1,0 +1,357 @@
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\______Workplace_______\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\______Workplace_______\EyesDetector\EyeDetector\obj\Release\EyeDetector.Form1.resources
+F:\______Workplace_______\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\______Workplace_______\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+F:\______Workplace_______\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\______Workplace_______\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\______Workplace_______\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\_____Dig pendrive\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\_____Dig pendrive\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\_____Dig pendrive\EyesDetector\EyeDetector\obj\Release\EyeDetector.Form1.resources
+F:\_____Dig pendrive\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\_____Dig pendrive\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.Form1.resources
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\______Workplace_______\__thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+F:\_____Experiment\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\_____Experiment\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\_____Experiment\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\_____Experiment\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\_____Experiment\EyesDetector\EyeDetector\obj\Release\EyeDetector.Form1.resources
+F:\_____Experiment\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\_____Experiment\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.facescalerateTrack.resources
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\MetroFramework.Design.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\MetroFramework.dll
+F:\______Workplace_______\________thesis\EyesDetector\EyeDetector\bin\Release\MetroFramework.Fonts.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\obj\Release\EyeDetector.facescalerateTrack.resources
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\____________Experiment\Latest Backup\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\obj\Release\EyeDetector.facescalerateTrack.resources
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\MetroFramework.Design.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\MetroFramework.dll
+F:\____________Experiment\_nEW\EyesDetector\EyeDetector\bin\Release\MetroFramework.Fonts.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\obj\Release\EyeDetector.facescalerateTrack.resources
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\____________Experiment\_nEW (Backup of new 2)\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+F:\Thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\Thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\Thesis\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\Thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\Thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.facescalerateTrack.resources
+F:\Thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\Thesis\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\obj\Release\EyeDetector.facescalerateTrack.resources
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+C:\Users\Turbomaster\Desktop\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.facescalerateTrack.resources
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+F:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.GPU.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.ML.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OCR.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.OpenCL.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.Stitching.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.CV.VideoStab.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojAssemblyReference.cache
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.facescalerateTrack.resources
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.cache
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.CoreCompileInputs.cache
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.CopyComplete
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+T:\___Thesis\___FINAL\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
